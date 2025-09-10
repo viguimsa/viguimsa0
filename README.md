@@ -45,7 +45,14 @@
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
+## 🌟 Interesses Pessoais
 
+- Aprender sobre **Inteligência Artificial** 🤖  
+- Desenvolvimento **Front-end** e UI/UX 💻🎨  
+- **Projetos pessoais e acadêmicos** 💡  
+- Café e música ☕🎶  
+- Tecnologia, inovação e novas linguagens de programação 🚀  
+- **Jogos** 🎮
 
 
 ---
