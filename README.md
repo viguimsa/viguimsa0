@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalhando em: **Projetos pessoais e estudos**
 - 🌱 Estudando: **HTML, CSS, Python e mais tecnologias de desenvolvimento**
 - 💬 Pergunte-me sobre: **desenvolvimento web, programação e projetos acadêmicos**
-- 📫 Como me encontrar: **Instagram abaixo**
+- 📫 Como encontrar: **Instagram abaixo**
 
 🤖
  Linguagens e Tecnologias
