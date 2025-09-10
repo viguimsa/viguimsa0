@@ -20,7 +20,16 @@
 
 
 
- 
+ ## 🛠 Minhas Habilidades e Domínio
+
+![HTML](https://img.shields.io/badge/HTML-90%25-green)
+![CSS](https://img.shields.io/badge/CSS-85%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![React](https://img.shields.io/badge/React-75%25-blueviolet)
+![Python](https://img.shields.io/badge/Python-70%25-lightgrey)
+![Node.js](https://img.shields.io/badge/Node.js-65%25-success)
+![Git](https://img.shields.io/badge/Git-85%25-orange)
+
 
 
 
