@@ -31,7 +31,6 @@
 />
 
 <img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
