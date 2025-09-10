@@ -149,17 +149,7 @@
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-<p align="center">
-  <b>Progresso nas habilidades:</b><br>
-  HTML | ██████████ 90%<br>
-  CSS  | █████████ 80%<br>
-  Python | █████████ 85%<br>
-  JavaScript | ████████ 75%<br>
-  React | ███████ 70%<br>
-  Node.js | ██████ 60%
-</p>
 
----
 
 
 ---
