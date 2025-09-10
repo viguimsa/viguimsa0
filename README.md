@@ -55,6 +55,13 @@
 - **Jogos** 🎮
 
 
+## 🎯 Fun Facts & Curiosidades
+
+- Amo café ☕ e música 🎶  
+- Adoro jogar 🎮  
+- Sempre aprendendo algo novo 💻  
+- Apaixonada por tecnologia e novas linguagens de programação 🖥️  
+- Sou torcedora do **Flamengo** 🔴⚫
 ---
 
 ## 🌍 Redes Sociais
@@ -64,3 +71,4 @@
 ---
 
 ✨ Feito com muito ☕ e dedicação.
+> "Aprender é o combustível da inovação." 🚀  
