@@ -1,6 +1,7 @@
-# Olá 👋, eu sou Vitoria Guimarães
+# Olá 👋, 👩🏻‍💻eu sou Vitoria Guimarães
 
-💻 Programadora, discente em Computação, transformando ideias em código.
+💻 Meu nome é Vitória Guimarães e sou natural de Teresópolis, Rio de Janeiro. Tenho formação em Informática e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e dedicada a transformar ideias em soluções digitais inovadoras, buscando sempre aprender e crescer no universo da programação
+
 
 - 🔭 Atualmente trabalhando em: **Projetos pessoais e estudos**
 - 🌱 Estudando: **HTML, CSS, Python e mais tecnologias de desenvolvimento**
