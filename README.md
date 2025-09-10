@@ -8,28 +8,15 @@
 - 💬 Pergunte-me sobre: **desenvolvimento web, programação e projetos acadêmicos**📚
 - 📫 Como encontrar: **Instagram abaixo**
 
-## 🛠 Tecnologias Principais
+## 🛠 Tecnologias & Domínio
 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-
-
- ## 🛠 Minhas Habilidades e Domínio
-
-![HTML](https://img.shields.io/badge/HTML-90%25-green)
-![CSS](https://img.shields.io/badge/CSS-85%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
-![React](https://img.shields.io/badge/React-75%25-blueviolet)
-![Python](https://img.shields.io/badge/Python-70%25-lightgrey)
-![Node.js](https://img.shields.io/badge/Node.js-65%25-success)
-![Git](https://img.shields.io/badge/Git-85%25-orange)
-
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]() ![HTML](https://img.shields.io/badge/HTML-90%25-green)  
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]() ![CSS](https://img.shields.io/badge/CSS-85%25-blue)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)  
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)]() ![React](https://img.shields.io/badge/React-75%25-blueviolet)  
+[![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)]() ![Python](https://img.shields.io/badge/Python-70%25-lightgrey)  
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)]() ![Node.js](https://img.shields.io/badge/Node.js-65%25-success)  
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]() ![Git](https://img.shields.io/badge/Git-85%25-orange)
 
 
 
