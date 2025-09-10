@@ -8,7 +8,8 @@
 - 💬 Pergunte-me sobre: **desenvolvimento web, programação e projetos acadêmicos**
 - 📫 Como me encontrar: **Instagram abaixo**
 
-🤖 Linguagens e Tecnologias
+🤖
+ Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
